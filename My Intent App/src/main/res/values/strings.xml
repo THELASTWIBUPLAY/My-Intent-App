@@ -6,4 +6,5 @@
     <string name="back_activity">Aktivitas Kembali</string>
     <!--intent implisit-->
     <string name="dial_number">Aktivitas Menelpon</string>
+    <string name="camera">Aktivitas Foto</string>
 </resources>
